@@ -2,6 +2,8 @@
 
 A simple callouts for use in Bootstrap 5 websites.
 
+ - **Live Demo**: https://kolappannathan.github.io/bootstrap-callouts/
+ - **Bootstrap Version**: 5.0.1
 
 ### Sample Screenshot
 
