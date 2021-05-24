@@ -1,4 +1,14 @@
- .bs-callout {
+/*
+* File          : bs-callout.css
+* Description   : For adding Sucess, Danger, Warning & Informational callouts in a Bootstrap website
+* Author        : Kolappan Nathan
+* License       : MIT
+* GitHub        : https://github.com/kolappannathan/bootstrap-callouts
+* Version       : 1.0.0
+* Last Modified : 24-May-2021
+*/
+
+.bs-callout {
 	 padding: 20px;
 	 margin: 20px 0;
 	 border: 1px solid #ddd;
