@@ -4,9 +4,16 @@
 * Author        : Kolappan Nathan
 * License       : MIT
 * GitHub        : https://github.com/kolappannathan/bootstrap-callouts
-* Version       : 1.0.0
-* Last Modified : 24-May-2021
+* Version       : 2.0.0
+* Last Modified : 30-Jul-2024
 */
+
+:root {
+    --bs-callout-success: #5cb85c;
+    --bs-callout-danger: #d9534f;
+    --bs-callout-warning: #f0ad4e;
+    --bs-callout-info: #5bc0de;
+}
 
 .bs-callout {
 	 padding: 20px;
@@ -32,26 +39,26 @@
 	 margin-top: -5px;
 }
  .bs-callout-success {
-	 border-left-color: #5cb85c;
+	 border-left-color: var(--bs-callout-success);
 }
  .bs-callout-success .bs-callout-heading {
-	 color: #5cb85c;
+	 color: var(--bs-callout-success);
 }
  .bs-callout-danger {
-	 border-left-color: #d9534f;
+	 border-left-color: var(--bs-callout-danger);
 }
  .bs-callout-danger .bs-callout-heading {
-	 color: #d9534f;
+	 color: var(--bs-callout-danger);
 }
  .bs-callout-warning {
-	 border-left-color: #f0ad4e;
+	 border-left-color: var(--bs-callout-warning);
 }
  .bs-callout-warning .bs-callout-heading {
-	 color: #f0ad4e;
+	 color: var(--bs-callout-warning);
 }
  .bs-callout-info {
-	 border-left-color: #5bc0de;
+	 border-left-color: var(--bs-callout-info);
 }
  .bs-callout-info .bs-callout-heading {
-	 color: #159;
+	 color: var(--bs-callout-info);
 }

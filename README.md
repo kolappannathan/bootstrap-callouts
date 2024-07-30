@@ -5,9 +5,15 @@ A simple callouts for use in Bootstrap 5 websites.
  - **Live Demo**: https://kolappannathan.github.io/bootstrap-callouts/
  - **Bootstrap Version**: 5.0.1
 
-### Sample Screenshot
+### Sample Screenshots
 
-![](./demo/demo.jpeg)
+*Light mode*
+
+![](./demo/light-mode.png)
+
+*Light mode*
+
+![](./demo/dark-mode.png)
 
 ### Usage
 
