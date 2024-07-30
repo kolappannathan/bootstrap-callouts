@@ -11,7 +11,7 @@ A simple callouts for use in Bootstrap 5 websites.
 
 ![](./demo/light-mode.png)
 
-*Light mode*
+*Dark mode*
 
 ![](./demo/dark-mode.png)
 
